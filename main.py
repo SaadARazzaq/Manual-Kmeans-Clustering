@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-data = pd.read_excel("Data.xlsx")
+data = pd.read_excel("Data.csv") # Can be Xlsx file
 data = data.values.tolist()
 
 def euclidean_distance(a, b):
