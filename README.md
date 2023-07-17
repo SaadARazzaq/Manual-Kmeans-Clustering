@@ -29,7 +29,7 @@ Please ensure you have these dependencies installed before running the program.
 
 ## Usage
 
-1. Make sure the `Data.xlsx` file is in the same directory as the script, or specify the correct file path in the code.
+1. Make sure the `Data.csv` file is in the same directory as the script, or specify the correct file path in the code.
 2. Run the script using Python.
 3. The program will perform K-means clustering on the dataset and display the scatter plot with the clusters.
 
