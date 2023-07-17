@@ -15,6 +15,10 @@ The K-means clustering algorithm is implemented using the provided code. The alg
 3. Calculate the mean of the points in each cluster and update the centroids.
 4. Repeat steps 2 and 3 until the centroids no longer change.
 
+## Screenshots
+
+![image](https://github.com/SaadARazzaq/Manual-Kmeans-Clustering/assets/123338307/fa7b9fbc-b585-4298-9b8f-c5f38f982291)
+
 ## Dependencies
 
 - Python 3.x
