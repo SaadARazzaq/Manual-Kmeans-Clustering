@@ -4,7 +4,7 @@ This program implements the K-means clustering algorithm without built in functi
 
 ## Dataset
 
-The dataset is read from an Excel file (`Data.xlsx`) using the pandas library. Make sure the file path is correctly specified in the code.
+The dataset is read from an Excel file (`Data.csv`) using the pandas library. Make sure the file path is correctly specified in the code.
 
 ## Algorithm
 
