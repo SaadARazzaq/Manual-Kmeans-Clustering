@@ -1,4 +1,4 @@
-# Manual-Kmeans-Clustering
+# Manual Kmeans Clustering #1
 
 This program implements the K-means clustering algorithm without built in functions implementing raw K-Means algorithm of how actually K-Means work in the backend. The program clusters the data into K=2 groups and visualizes the clusters using a scatter plot with different colors for each cluster.
 
